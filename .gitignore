@@ -8,6 +8,11 @@
 
 *.cycdx
 *.ECE_STUDENT
+*.html
+*.rpt
+*.cyfit
+*.svd
+*.cydwr
 
 # Object files
 *.o
