@@ -6,6 +6,8 @@
 /UART_to_BLE_peripheral.cydsn/Generated_Source/
 /UART_to_BLE_peripheral.cydsn/*.cyfit
 
+*.ECE_STUDENT
+
 # Object files
 *.o
 *.ko
